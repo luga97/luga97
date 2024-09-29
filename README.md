@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is SeuNomeAqui and my nickname is "SeuApelidoAqui"!
+## My name is Luis David and my nickname is "luga97"!
 <!--
 **luga97/luga97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
