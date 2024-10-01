@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi there! I'm Luis David.</h1>
 <h3 align="center">A FullStack software Developer 🧑‍💻</h3>
 
-I'm a Fullstack Developer with 6 years of experience building business-focused web and mobile applications. I specialize in **React**, **React Native**, **JavaScript**, **TypeScript**, **Node.js**, **.NET**, **Golang**, and have strong proficiency with **PostgreSQL** and **Docker**. I’ve deployed solutions using **AWS** and am currently working with **.NET Core**, **React Native**, **Golang**, and **RabbitMQ**.
+I'm a Fullstack Developer with 6 years of experience building business-focused web and mobile applications. I specialize in **React**, **React Native**, **JavaScript**, **TypeScript**, **Node.js**, **.NET**, **NestJS**, **Golang**, and have strong proficiency with **PostgreSQL** and **Docker**. I’ve deployed solutions using **AWS** and am currently working with **.NET Core**, **React Native**, **Golang**, and **RabbitMQ**.
 
 Beyond coding, I lead teams, gather requirements from stakeholders, and focus on delivering products that solve real business problems. I’m passionate about creating reliable, scalable solutions that drive impact.
 
-In my side projects, I’ve explored various technologies like **Angular**, **Golang**, and **NestJS**, working on both web and mobile apps. I’m also continually expanding my knowledge by studying **microservices architecture**, **RxJS**, and **Svelte**, staying up-to-date with the latest tools and patterns in software development.
+In my side projects, I’ve explored various technologies like **Angular**, **Golang**, and **NestJS**, working on both web and mobile apps. I’m also continually expanding my knowledge by studying, staying up-to-date with the latest tools and patterns in software development.
 
 When I’m not deep in the tech world, I enjoy spending time outdoors with my family 🌳 or playing video games 🎮.
 
