@@ -1,22 +1,28 @@
-# 👋 Hi there! I'm Luis David.
+# Luis David Garcia Lunar
 
-**Full-Stack Software Engineer | AI-Augmented Developer | System Architect** 🧑‍💻
+Software Engineer with 6 years of experience focusing on **System Architecture, IoT Telemetry, and Industrial Automation**.
 
-I build reliable software that solves complex, real-world operational problems. With over 6 years of experience, I take ownership of the entire lifecycle: from deciphering vague business requirements to deploying scalable architectures in production. 
+I specialize in building bridges between complex business operational needs and high-scale, reliable software. My background spans from hardware-software integration in retail/telecom to high-throughput data processing in logistics and cross-border tax compliance.
 
-I am an advocate for **AI-Augmented Engineering**. I leverage tools like Cursor and Claude Code, configuring custom agentic workflows, hooks, and skills to automate the execution layer and focus my time on high-impact architecture and product strategy.
+### Technical Focus
+*   **System Architecture:** Designing event-driven systems (RabbitMQ/Kafka) and robust data pipelines for IoT/Telemetry.
+*   **Operational Engineering:** Reengineering legacy performance bottlenecks (PostgreSQL) and automating industrial processes.
+*   **AI-Augmented Development:** Integrating agentic workflows (Cursor, Claude Code) into enterprise lifecycles to optimize code quality and development velocity.
 
-### 🚀 What I Do
-* **AI-Driven Development:** Configuring multi-agent environments and custom rules to accelerate the software development lifecycle in enterprise settings.
-* **Hardware & Telemetry Integration:** Experienced in bridging the physical and digital worlds. I built a real-time concrete mixer tracking system utilizing GPS/sensor data and MSMQ, and integrated Bluetooth biometric devices for secure retail operations.
-* **System Architecture & Automation:** I have digitized manual freight logistics, built SaaS Product Data Management (PDM) systems from scratch, and architected modular frontend widget systems using iframes.
-* **Performance Optimization:** Passionate about reducing technical debt. I recently reengineered a system's database queries to drop execution times from minutes to milliseconds. 
+### Selected Experience & Impact
+*   **Telemetry & IoT:** Engineered concrete mixer tracking systems processing GPS/Sensor data via MSMQ and telemetry alerts for speed and safety.
+*   **Logistics & EDI:** Digitized legacy freight operations by automating EDI processing and route optimization engines.
+*   **Cross-Border Compliance:** Contributing to core item classification workflows for global enterprise tax compliance.
+*   **Retail/Biometrics:** Integrated Bluetooth hardware for secure, real-time identity verification in retail environments.
 
-### 🛠️ Tech Stack & Tools
-* **Languages & Frameworks:** C#, Go, TypeScript, Java, .NET Core, NestJS, React, React Native.
-* **Infrastructure:** PostgreSQL, AWS, Docker, RabbitMQ, MSMQ, Kafka.
-* **AI Tooling:** Cursor, Claude Code, Agentic Workflows.
+### Tech Stack
+*   **Languages:** C#, Go, Java, TypeScript, JavaScript
+*   **Infrastructure:** .NET Core, Spring Boot, NestJS, AWS, Docker
+*   **Data & Queues:** PostgreSQL, RabbitMQ, MSMQ, Kafka
 
-Beyond the editor, my focus is always on the end-user. The goal is to deliver impact, reduce friction, and build systems that scale effortlessly.
+---
+*I believe in building systems that reduce friction. I am currently focused on high-concurrency systems, event-driven architectures, and controlled AI-integration in the enterprise.*
 
-**Let's build something that matters.** Feel free to reach out if you want to discuss system design, AI tooling, or collaborate!
+---
+
+**Contact me:** ldgl1215@gmail.com | [LinkedIn](URL_DE_TU_LINKEDIN)
